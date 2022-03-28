@@ -1,2 +1,2 @@
-# Edge Autonomy Internal Knowledge Base Template
+# General Web Page Template
 
